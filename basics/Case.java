@@ -17,6 +17,6 @@ public class Case {
         String word = "   hello world !     ";
         System.out.println(word.trim());
         System.out.println(word.trim().charAt(0));
-
+        
     }
 }
