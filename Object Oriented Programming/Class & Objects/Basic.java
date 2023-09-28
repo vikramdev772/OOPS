@@ -18,3 +18,26 @@ class Animal{
         System.out.println("\n\t Animal is eating.. \n");
     }
 }
+
+                                output:
+
+                                Object Oriented Programming
+
+
+         Oops is core of java programming,
+         which is used for designing a program that uses
+                Objects & Classes
+
+         it promotes Modularity , Reusability , Maintainability of code
+
+
+         Class is a blueprint which defines some properties and behaviors
+
+
+         Object are real entities.object is an instance of class.
+
+
+         Animal is eating..
+
+
+         
