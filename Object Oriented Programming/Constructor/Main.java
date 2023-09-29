@@ -8,7 +8,11 @@ public class Main {
         Create con = new Create();//Create() constructor is called .
         Types non = new Types(); //Non Parameterized
         Params p = new Params(5, 6);//Parameterized
-        
+        String str="Ben";
+        double v=10;
+        Copy c=new Copy(str,v);//Copy constructor
+         
+
 
 
     }
