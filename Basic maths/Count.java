@@ -14,3 +14,11 @@ public class Count {
 
     }
 }
+                       Count digits present in number
+
+
+                         Count is : 3
+
+
+
+                         
