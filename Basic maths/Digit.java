@@ -21,4 +21,24 @@ public class Digit{
         return c;
 
     }
+
 }
+
+
+            output:
+
+                   Digit Concept
+
+
+         Enter a num :
+        
+         7789
+
+         Number : 7789
+
+         number of digits present in a number : 4
+
+
+
+
+
