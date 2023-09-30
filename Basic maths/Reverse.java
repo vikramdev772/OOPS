@@ -13,3 +13,16 @@ public class Reverse {
         }    
 }
 
+                    output:
+
+                        Reverse Number
+
+
+                        The num : 678
+
+                        Reverse num : 876
+
+
+
+
+                        
