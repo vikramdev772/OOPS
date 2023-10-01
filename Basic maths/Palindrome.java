@@ -19,3 +19,16 @@ public class Palindrome {
     }
     
 }
+
+                output:
+
+                 Palindrome of number
+
+
+         Number : 122
+
+         False it is not palindrome num : 122 != rev : 221
+
+
+
+         
