@@ -17,3 +17,9 @@ public class Amstrong {
         System.out.println("\n\t The armstrong num : "+sum);
     }
 }
+
+
+
+
+
+
