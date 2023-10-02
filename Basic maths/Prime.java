@@ -22,3 +22,18 @@ public class Prime {
         }
     }
 }
+
+
+                output :
+
+                         Prime check
+
+
+         Enter a num :
+        
+         2
+
+         it is prime
+
+
+         
