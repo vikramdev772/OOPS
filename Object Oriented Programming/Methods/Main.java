@@ -18,6 +18,7 @@ public class Main{
         System.out.println("\n\t Cat name is Tom  : "+c);
 
 
+
     }
     private static int sum(int a,int b){
         return a+b;
@@ -43,5 +44,15 @@ public class Main{
     //       Floating values sum : 7.7
 
 
+        //  Bark
+
+        // Meow
+
+        //  Dog name is duke : Dog@44e81672
+
+        //  Cat name is Tom  : Cat@4ca8195f
+
+
+        
 
 
