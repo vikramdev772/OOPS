@@ -27,3 +27,22 @@ public class Gcd {
     }
     
 }
+                            output:
+
+
+                             GCD of two numbers 
+
+
+         Eulidean algorithm
+
+
+         numbers a : 8 b : 2
+
+         GCD of two nums : 2
+
+
+
+
+
+
+         
