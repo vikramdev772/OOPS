@@ -1,3 +1,6 @@
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class Reverse {
         public static void main(String[] args) {
             System.out.println("\n\t Reverse Number \n");
@@ -10,17 +13,33 @@ public class Reverse {
                 n=n/10;
             }
             System.out.println("\n\t Reverse num : "+rev);
+            char a[] = {1,2,3,4};
+            System.out.println("\n\t Array : "+Arrays.toString(a));
+            rev(a);
+
         }    
+        public static void rev(char[] arr) {
+            char s=0,e=arr.length;
+            for(int i=0;i<e;i++){
+                char temp=arr[i];
+                arr[i]=arr[e];
+                arr[e]=temp;
+                e--;
+            }
+            System.out.println("\n\t Reverse : "+Arrays.toString(arr));
+            
+            
+        }
 }
 
-                    output:
+                    // output:
 
-                        Reverse Number
+                    //     Reverse Number
 
 
-                        The num : 678
+                    //     The num : 678
 
-                        Reverse num : 876
+                    //     Reverse num : 876
 
 
 
