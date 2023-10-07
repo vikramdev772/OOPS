@@ -26,7 +26,7 @@ public class Reverse {
                 arr[e]=temp;
                 e--;
             }
-            System.out.println("\n\t Reverse : "+Arrays.toString(arr));
+            System.out.println("\n\t Reverse : "+arr);
             
             
         }
@@ -43,5 +43,9 @@ public class Reverse {
 
 
 
+                    output:
 
+                     Reverse num : 876
+
+         Array : [☺, ☻, ♥, ♦]
                         
