@@ -8,6 +8,11 @@ public class Main{
         c.eat();
         c.walk();
         // Animal a=new Animal(); Cannot instantiancce the type animal 
+        System.out.println("\n\t Abstract methods \n");
+        Son s=new Son();
+        Dau d=new Dau();
+        s.walk();
+        d.walk();
 
     }
 }
@@ -32,4 +37,3 @@ public class Main{
 
 
 
-        
