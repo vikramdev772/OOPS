@@ -35,3 +35,17 @@ public class Print {
         }
     }
 }
+                    OUTPUT:
+
+                     Alpha triangle
+
+        B
+        C       C
+        D       D       D
+        E       E       E       E
+        F       F       F       F       F
+        G       G       G       G       G       G
+
+
+
+        
