@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Encapsulation",
+            "request": "launch",
+            "mainClass": "Encapsulation.Encapsulation",
+            "projectName": "Letcure 3_514fbe96"
+        },
+        {
+            "type": "java",
+            "name": "Practise",
+            "request": "launch",
+            "mainClass": "SS.Practise",
+            "projectName": "Letcure 3_514fbe96"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Abstractdemo",
+            "request": "launch",
+            "mainClass": "Abstraction.Abstractdemo",
+            "projectName": "Letcure 3_514fbe96"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Abstraction.Demo",
+            "projectName": "Letcure 3_514fbe96"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Encapsulation.Main",
+            "projectName": "Letcure 3_514fbe96"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "SS.Main",
+            "projectName": "Letcure 3_514fbe96"
+        },
+        {
+            "type": "java",
+            "name": "Mkv",
+            "request": "launch",
+            "mainClass": "SS.Mkv",
+            "projectName": "Letcure 3_514fbe96"
+        },
+        {
+            "type": "java",
+            "name": "Statics",
+            "request": "launch",
+            "mainClass": "SS.Statics",
+            "projectName": "Letcure 3_514fbe96"
+        },
+        {
+            "type": "java",
+            "name": "SuperConcept",
+            "request": "launch",
+            "mainClass": "SS.SuperConcept",
+            "projectName": "Letcure 3_514fbe96"
+        }
+    ]
+}
